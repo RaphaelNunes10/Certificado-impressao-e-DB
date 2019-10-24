@@ -11,6 +11,7 @@ Sua exibição utiliza-se de HTML/CSS e Javascript e serve como base para a impr
 # Instalação
 
 * Extraia os arquivos do repositório na pasta desejada.
-* Baixe a versão mais atual do sqlite-jdbc: https://bitbucket.org/xerial/sqlite-jdbc/downloads/ (Ultima versão testada: 3.27.2.1)
+* Baixe a versão mais atual do sqlite-jdbc: https://bitbucket.org/xerial/sqlite-jdbc/downloads/ 
+Ou utilize o arquivo sqlite-jdbc-3.27.2.1.jar incluso.
 * Abra o projeto via Eclipse em "Open Project from File System...".
 * Vá em File>Properties>Java Build Path>Libraries, clique no arquivo .jar do SQLite, clique em "Edit..." e indique o caminho do drive SQLite.
