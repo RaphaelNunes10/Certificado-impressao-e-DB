@@ -1,0 +1,11 @@
+.pagination {
+	-fx-page-information-visible: false;
+}
+
+.pagination > .pagination-control > .control-box > .number-button,
+.pagination > .pagination-control > .control-box > .bullet-button,
+.pagination > .pagination-control > .control-box > .left-arrow-button,
+.pagination > .pagination-control > .control-box > .right-arrow-button {
+    -fx-min-width: 100;
+    -fx-min-height: 40;
+}
